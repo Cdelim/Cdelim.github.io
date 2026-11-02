@@ -1,2 +1,2 @@
-# app-ads.txt for Junction Jam (developer site: https://cdelim.github.io)
-# Paste the lines from LevelPlay below this comment (one line per seller).
+# app-ads.txt for all games by Cem Bektaşoğlu (developer site: https://cdelim.github.io)
+# One file for every game. Paste the lines from LevelPlay (and any other ad network) below this comment.
